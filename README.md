@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Ash, I am a graduate of the Northcoders Data Engineering Bootcamp. Welcome to my GitHub profile! 
+
+The course covered a variety of topics before culminating in a three week group project involving loading data from a data lake into
+a data warehouse hosted in AWS.
+
+The majority of my repos are corresponding to a sprint/topic from the bootcamp, as well as the final group project which you can read more about here. 
+
+If you have any questions about the content on my profile and/or my journey into tech so far, feel free to pop me a message on Linkedin :) 
 <!--
 **AshDL1994/AshDL1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
